@@ -2,7 +2,7 @@
 
 O projeto tem como objetivo utilizar os dados do jogo Assetto Corsa para criar uma telemetria em tempo real com o Power BI.
 
-Mais informações no meu artigo 
+Mais informações no meu artigo https://www.linkedin.com/pulse/criando-uma-telemetria-e-conectando-em-tempo-real-o-power-tadeu-mansi/?published=t
 
 Qualquer Dúvida pode me chamar no Linkedin https://www.linkedin.com/in/tadeu-mansi/
 
