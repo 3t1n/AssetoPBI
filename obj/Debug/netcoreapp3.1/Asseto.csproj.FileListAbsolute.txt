@@ -1,0 +1,15 @@
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.exe
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.deps.json
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.runtimeconfig.json
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.runtimeconfig.dev.json
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.dll
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\Asseto.pdb
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\AssettoCorsaSharedMemory.dll
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\AssettoCorsaSharedMemory.pdb
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.csprojAssemblyReference.cache
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.AssemblyInfoInputs.cache
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.AssemblyInfo.cs
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.csproj.CopyComplete
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.dll
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\obj\Debug\netcoreapp3.1\Asseto.pdb
+C:\Users\reyna\OneDrive\Área de Trabalho\Estudos\Asseto\bin\Debug\netcoreapp3.1\RestSharp.dll

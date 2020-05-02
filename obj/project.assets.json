@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestSharp/106.10.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      },
+      "AssettoCorsaSharedMemory/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AssettoCorsaSharedMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AssettoCorsaSharedMemory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestSharp/106.10.1": {
+      "sha512": "MhR4w8LbArVaRA5T/oAR3ZnF852QXtDXRBO84GsvyYzsm7FsjXHJ+JaM8x/nR/B/OCB1WbolGH7hqMT1GZpNJw==",
+      "type": "package",
+      "path": "restsharp/106.10.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.10.1.nupkg.sha512",
+        "restsharp.nuspec"
+      ]
+    },
+    "AssettoCorsaSharedMemory/1.0.0": {
+      "type": "project",
+      "path": "../assettocorsasharedmemory-master/AssettoCorsaSharedMemory.csproj",
+      "msbuildProject": "../assettocorsasharedmemory-master/AssettoCorsaSharedMemory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AssettoCorsaSharedMemory >= 1.0.0",
+      "RestSharp >= 106.10.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\reyna\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\reyna\\OneDrive\\Área de Trabalho\\Estudos\\Asseto\\Asseto.csproj",
+      "projectName": "Asseto",
+      "projectPath": "C:\\Users\\reyna\\OneDrive\\Área de Trabalho\\Estudos\\Asseto\\Asseto.csproj",
+      "packagesPath": "C:\\Users\\reyna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\reyna\\OneDrive\\Área de Trabalho\\Estudos\\Asseto\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\reyna\\OneDrive\\Área de Trabalho\\Estudos\\assettocorsasharedmemory-master\\AssettoCorsaSharedMemory.csproj": {
+              "projectPath": "C:\\Users\\reyna\\OneDrive\\Área de Trabalho\\Estudos\\assettocorsasharedmemory-master\\AssettoCorsaSharedMemory.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[106.10.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
